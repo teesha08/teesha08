@@ -30,8 +30,4 @@ I am a results-driven Data Analyst focused on transforming complex, large-scale 
 
 ## 📊 GitHub Analytics & Certifications
 * **Certifications:** AWS Academy Graduate — Machine Learning Foundations | Cisco PCAP Python
-* *Fun Fact: When I'm not tuning hyperparameters or writing SQL queries, you'll find me solving algorithmic challenges over at my [HackerRank Vault](https://github.com/teesha08/hackerrank-codevault).*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teesha08&show_icons=true&theme=radical" alt="Teesha's GitHub Stats" />
-</p>
+* *Fun Fact: When I'm not tuning hyperparameters or writing SQL queries, you'll find me solving algorithmic challenges over at my [HackerRank Vault](https://github.com/teesha08/hackerrank-codevault).
