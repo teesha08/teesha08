@@ -15,15 +15,15 @@ I am a results-driven Data Analyst focused on transforming complex, large-scale 
 
 ## Featured Projects
 
-### [Walmart-demand-forecasting]
+### Walmart-demand-forecasting
 * **Tech:** Python, XGBoost, Random Forest, Scikit-Learn
 * Engineered rolling averages and lag variables on **68K+ records** to achieve an $R^2 = 0.989$, optimizing inventory safety stocks for a 95% service level.
 
-### [Healthcare-readmission-analytics]
+### Healthcare-readmission-analytics
 * **Tech:** PostgreSQL, Python, Power BI
 * Processed **100K+ hospital encounters** to isolate high-risk patients (7+ diagnoses) and created a live-decision support dashboard.
 
-### [Amazon-sentiment-classifier]
+### Amazon-sentiment-classifier
 * **Tech:** Python, NLP (TF-IDF), Logistic Regression, Power BI
 * Developed an end-to-end NLP classifier scoring 87% accuracy to extract product satisfaction trends across **30K+ text reviews**.
 
