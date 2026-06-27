@@ -1,4 +1,4 @@
-# Hi, I'm Teesha Saini!
+# Hi, Teesha Here!
 ## Analyst | B.Tech CSE Graduate
 
 I am a results-driven Data Analyst focused on transforming complex, large-scale datasets into actionable business strategies. With hands-on experience in building predictive machine learning models, engineering time-series features, and creating intuitive executive dashboards, I bridge the gap between raw data and business impact.
